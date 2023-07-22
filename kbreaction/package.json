@@ -1,0 +1,28 @@
+{
+  "name": "kbreaction-by-react-forked",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "script": {
+    "start": "parcel src/index.js --open",
+    "build": "parcel build src/index.js"
+  },
+  "dependencies": {
+    "babel": "6.23.0",
+    "lodash": "4.17.21",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-scripts": "3.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "6.23.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
