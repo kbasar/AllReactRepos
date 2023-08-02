@@ -1,0 +1,6 @@
+@startuml test
+A-> B
+B -> Cad
+
+
+@enduml
